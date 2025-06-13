@@ -62,19 +62,9 @@ Hi there! I'm Shaaf Yousaf, a passionate FullStack and Machine Learning develope
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
-
-## 📊 GitHub Stats
-![Shaaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaafPlayz&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
-- **📧 Email**: [shaaf.yousaf@mail.utoronto.ca](mailto:shaaf.yousaf@mail.utoronto.ca)
 - **🔗 LinkedIn**: [shaafyousaf](https://www.linkedin.com/in/shaafyousaf/)
-- **📷 Instagram**: [shaafyousaf](https://www.instagram.com/shaafyousaf/)
 - **🌐 Website**: [shaafyousaf.me](https://shaafplayz.github.io/)
-
-## 🎯 Let's Collaborate!
-I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss the latest in AI/ML, build something cool together, or just chat about technology - feel free to reach out!
 
 ---
 *"Code is like humor. When you have to explain it, it's bad."* 💻
