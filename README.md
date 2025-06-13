@@ -2,7 +2,7 @@
 
 Hi there! I'm Shaaf Yousaf, a passionate FullStack and Machine Learning developer studying at University of Toronto. I specialize in creating innovative solutions using cutting-edge technologies. My work spans across web development, machine learning, game development, and system programming. I love exploring new ideas and turning them into reality through code.
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 - 🔭 Building AI-powered applications and machine learning models
 - 🌱 Exploring advanced web technologies and cloud computing
 - 👯 Looking to collaborate on innovative projects in ML/AI and web development
@@ -37,7 +37,7 @@ Hi there! I'm Shaaf Yousaf, a passionate FullStack and Machine Learning develope
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 - **🔗 LinkedIn**: [shaafyousaf](https://www.linkedin.com/in/shaafyousaf/)
 - **🌐 Website**: [shaafyousaf.me](https://shaafplayz.github.io/)
 
