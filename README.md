@@ -30,10 +30,10 @@ Hi there! I'm Shaaf Yousaf, a passionate FullStack and Machine Learning develope
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+<!-- 
 ## 📫 Connect with Me
 - **🔗 LinkedIn**: [shaafyousaf](https://www.linkedin.com/in/shaafyousaf/)
 - **🌐 Website**: [shaafyousaf.me](https://shaafplayz.github.io/)
 
 ---
-*"Code is like humor. When you have to explain it, it's bad."* 💻
+*"Code is like humor. When you have to explain it, it's bad."* 💻 -->
