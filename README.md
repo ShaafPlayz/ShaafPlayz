@@ -2,8 +2,6 @@
 
 Hi there! I'm Shaaf Yousaf, a passionate FullStack and Machine Learning developer studying at University of Toronto.
 
-Want to talk?
-
 Send me a message anywhere, I love talking!
 
 <!-- 
